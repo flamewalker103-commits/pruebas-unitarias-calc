@@ -1,6 +1,6 @@
 {
     "name": "pruebas-unitarias-calc",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Proyecto de calculadora simple con enfoque en pruebas unitarias",
     "main": "src/calculadora.js",
     "scripts": {
