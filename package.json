@@ -1,1 +1,1 @@
-{"name":"pruebas-unitarias-calc","version":"1.0.3","description":"Proyecto de calculadora simple con enfoque en pruebas unitarias","main":"src/calculadora.js","scripts":{"test":"jest"},"dependencies":{},"devDependencies":{"jest":"^29.6.0"},"license":"MIT"}
+{"name":"pruebas-unitarias-calc","version":"1.0.4","description":"Proyecto de calculadora simple con enfoque en pruebas unitarias","main":"src/calculadora.js","scripts":{"test":"jest"},"dependencies":{},"devDependencies":{"jest":"^29.6.0"},"license":"MIT"}
